@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Todor Mihaylov
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Department of Computational Linguistics, Heidelberg Univeristy
+  url: "https://www.cl.uni-heidelberg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  I am 4th year doctoral researcher at the Department of Computational Linguistics at Heidelberg University working on incorporating external knowledge for question answering and reading comprehension. I am also part of the Research Training Group „Adaptive Information Preparation from Heterogeneous Sources“ (AIPHES).
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning for NLP
+- Representation Learning
+- Reading Comprehension and Question Answering with External Knowledge
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Student in Computational Linguistics
+    institution: Heidelberg University
+    year: 2016 - now
+  - course: MSc in Computer Science
+    institution: Sofia University
+    year: 2013-2015
+  - course: BEng in Computer Systems
+    institution: Technical University of Sofia
+    year: 2008-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tbmihaylov
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=igempQwAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tbmihailov
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,9 +67,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am 4th year doctoral researcher at the Department of Computational Linguistics at Heidelberg University working on incorporating external knowledge for question answering and reading comprehension. I am also part of the Research Training Group „Adaptive Information Preparation from Heterogeneous Sources“ (AIPHES).
