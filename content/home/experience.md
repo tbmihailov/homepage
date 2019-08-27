@@ -30,6 +30,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
+  logo = "static/files/ai2logo.png"
   company = "The Allen Institute for Artificial Intelligence"
   company_url = "https://allenai.org"
   location = "Seattle, WA, USA"
