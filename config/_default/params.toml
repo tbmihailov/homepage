@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = "forest"
+color_theme = "mr_robot"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -71,7 +71,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/tbmihaylov"},
+  {icon = "twitter", icon_pack = "fab", name = "tbmihaylov", link = "https://twitter.com/tbmihaylov"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

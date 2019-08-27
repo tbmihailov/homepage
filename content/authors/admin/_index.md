@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cl.uni-heidelberg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I am 4th year doctoral researcher at the Department of Computational Linguistics at Heidelberg University working on incorporating external knowledge for question answering and reading comprehension. I am also part of the Research Training Group „Adaptive Information Preparation from Heterogeneous Sources“ (AIPHES).
+bio:  I am 4th year doctoral researcher at the Department of Computational Linguistics at Heidelberg University working on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was a Research Intern at the AI2 Aristo Team. In Summer 2017 I was Research Scientist Intern in Amazon AI, Palo Alto. 
 
 interests:
 - Deep Learning for NLP
@@ -26,16 +26,17 @@ interests:
 - Reading Comprehension and Question Answering with External Knowledge
 
 education:
-  courses:
-  - course: PhD Student in Computational Linguistics
-    institution: Heidelberg University
-    year: 2016 - now
-  - course: MSc in Computer Science
-    institution: Sofia University
-    year: 2013-2015
-  - course: BEng in Computer Systems
-    institution: Technical University of Sofia
-    year: 2008-2012
+   courses:
+   - course: PhD Student in Computational Linguistics
+     institution: Heidelberg University
+     year: 2016 - now
+   - course: MSc in Computer Science
+     institution: Sofia University
+     year: 2013-2015
+   - course: BEng in Computer Systems
+     institution: Technical University of Sofia
+     year: 2008-2012
+     
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -69,4 +70,4 @@ user_groups:
 - Researchers
 ---
 
-I am 4th year doctoral researcher at the Department of Computational Linguistics at Heidelberg University working on incorporating external knowledge for question answering and reading comprehension. I am also part of the Research Training Group „Adaptive Information Preparation from Heterogeneous Sources“ (AIPHES).
+I am 4th year doctoral researcher at the Department of Computational Linguistics at Heidelberg University and Research Training Group „Adaptive Information Preparation from Heterogeneous Sources“ (AIPHES). My work focus on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was a Research Intern at the AI2 Aristo Team. In Summer 2017 I was Research Scientist Intern in Amazon AI, Palo Alto. 
