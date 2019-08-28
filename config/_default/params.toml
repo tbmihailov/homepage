@@ -58,7 +58,7 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "tbmihailov@gmail.com"
+email = "mihaylov@cl.uni-heidelberg.de"
 phone = ""
 address = ""
 

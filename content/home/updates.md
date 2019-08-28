@@ -75,7 +75,7 @@ subtitle = ""
  <li> Attending EMNLP 2018 in Brussels, Belgium. Oct 2018 </li>
  <li> Our paper <a href="https://arxiv.org/abs/1809.02789">
 Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering</a> was accepted to EMNLP 2018. <a href="https://github.com/allenai/OpenBookQA">Code</a> and <a href="http://data.allenai.org/OpenBookQA">dataset</a> are available. Sep 2018 </li>
- <li> Attending ACL 2018 in Melbourne, Australia. July 2018 </li>
+ <!-- <li> Attending ACL 2018 in Melbourne, Australia. July 2018 </li> -->
  <li> Internship at <a href="http://allenai.org/">The Allen Institute for Artificial Intelligence (AI2)</a> working on Science question answering. Apr - Jun 2018 </li>
  <li> Our paper on <a href="https://arxiv.org/abs/1805.07858">enhancing reading comprehension with commonsense knowledge</a> was accepted at ACL 2018 (oral presentation). April 2018 </li>
  <li>Paper accepted at the <a href="https://lld-workshop.github.io/">LLD workshop</a> at NIPS. Nov 2017 </li>
@@ -84,5 +84,5 @@ Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question An
  <li>Summer internship in AWS Deep Learning, Amazon AI, Palo Alto, CA. Working on question answering using transfer learning. June - Sep 2017</li>
  <li>My system ranked 3rd in the official evaluation of <a href="https://competitions.codalab.org/competitions/15333">Story Cloze Test task</a>. Feb 2017</li>
  <li>My system ranked 1st in the Overal evaluation in the <a href="http://www.cs.brandeis.edu/~clp/conll16st/index.html">CoNLL 2016 shared task</a> on Discourse Relations Sense Classification. May 2016</li>
- <li>Started as a doctoral researcher. April 2016</li>
+ <!-- <li>Started as a doctoral researcher. April 2016</li> -->
 </ul>
