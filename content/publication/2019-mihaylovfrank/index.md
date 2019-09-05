@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing, EMNLP-IJCNLP 2019*"
-url_pdf: ""
-url_code: "https://github.com/Heidelberg-NLP/discourse-aware-semantic-self-attention"
+url_pdf: "https://arxiv.org/pdf/1908.10721.pdf"
+url_code: "" 
 ---
 
