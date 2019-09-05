@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-146446493-1"
+googleAnalytics = "UA-146446493-2"
 
 ############################
 ## Advanced options below ##
