@@ -9,5 +9,12 @@ featured: true
 publication: "*In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP)*"
 url_pdf: "https://aclweb.org/anthology/papers/D/D18/D18-1260/"
 url_code: "https://github.com/allenai/OpenBookQA"
+url_preprint: ""
+url_dataset: "https://leaderboard.allenai.org/open_book_qa/"
+url_project: ""
+url_slides: ""
+url_video: ""
+url_poster: ""
+url_source: ""
 ---
 
