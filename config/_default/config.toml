@@ -9,7 +9,10 @@ title = "Todor Mihaylov"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+#
+# To deploy with subfolder
+baseURL = "https://www.cl.uni-heidelberg.de/~mihaylov/"
+
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -24,6 +27,7 @@ googleAnalytics = "UA-146446493-2"
 
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
+light = true
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -38,6 +42,9 @@ paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+relativeurls = false
+canonifyurls = false
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
