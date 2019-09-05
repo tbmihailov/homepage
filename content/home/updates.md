@@ -70,7 +70,7 @@ subtitle = ""
 
 <ul>
  <li> Our paper on Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension was accepted at EMNLP-IJCNLP 2019. Aug 2019 </li>
- <li> I attended the <a href="https://medium.com/ai2-blog/2019-allennlp-summit-c954d258f819">AllenNLP Summit</a> in Seattle. Aug 2019 </li>
+ <li> Attended the <a href="https://medium.com/ai2-blog/2019-allennlp-summit-c954d258f819">AllenNLP Summit</a> in Seattle. Aug 2019 </li>
  <li> Giving an invited talk at NEC Labs, Heidelberg. Mar 2019 </li>
  <li> Attending EMNLP 2018 in Brussels, Belgium. Oct 2018 </li>
  <li> Our paper <a href="https://arxiv.org/abs/1809.02789">
