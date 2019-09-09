@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cl.uni-heidelberg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I am doctoral researcher at Heidelberg University working on incorporating external knowledge into neural networks for question answering and reading comprehension.  
+bio:  I am a doctoral researcher at Heidelberg University working on incorporating external knowledge into neural networks for question answering and reading comprehension.  
 
 interests:
 - Deep Learning for NLP
@@ -70,4 +70,5 @@ user_groups:
 - Researchers
 ---
 
-I am 4th year doctoral researcher in the [Natural Language Processing Group](https://www.cl.uni-heidelberg.de/nlpgroup/) at Heidelberg University and [Research Training Group "AIPHES"](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/index.en.jsp). My work focuses on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was Research Intern at the [AI2 Aristo Team](https://allenai.org/aristo/) in Seattle. In Summer 2017 I was Research Scientist Intern at [Amazon AI](https://www.amazon.jobs/en/teams/amazonai) in Palo Alto. 
+I am a 4th-year doctoral researcher in the [Natural Language Processing Group](https://www.cl.uni-heidelberg.de/nlpgroup/) at Heidelberg University and [Research Training Group "AIPHES"](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/index.en.jsp). My work focuses on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was a Research Intern at the [AI2 Aristo Team](https://allenai.org/aristo/) in Seattle. In Summer 2017 I was a Research Scientist Intern at [Amazon AI](https://www.amazon.jobs/en/teams/amazonai) in Palo Alto. 
+ 
