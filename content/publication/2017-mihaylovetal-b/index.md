@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*Workshop on Learning with Limited Labeled Data: Weak Supervision and Beyond at NIPS 2017.*"
+url_pdf: "https://arxiv.org/pdf/1711.03754"
 ---
 
