@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Clark | Todor Mihaylov</title>
-    <link>https://www.cl.uni-heidelberg.de/~mihaylov/authors/peter-clark/</link>
-      <atom:link href="https://www.cl.uni-heidelberg.de/~mihaylov/authors/peter-clark/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/peter-clark/</link>
+      <atom:link href="/authors/peter-clark/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Clark</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cl.uni-heidelberg.de/~mihaylov/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Peter Clark</title>
-      <link>https://www.cl.uni-heidelberg.de/~mihaylov/authors/peter-clark/</link>
+      <link>/authors/peter-clark/</link>
     </image>
     
     <item>
       <title>Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering</title>
-      <link>https://www.cl.uni-heidelberg.de/~mihaylov/publication/2018-mihaylovetal/</link>
+      <link>/publication/2018-mihaylovetal/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.cl.uni-heidelberg.de/~mihaylov/publication/2018-mihaylovetal/</guid>
+      <guid>/publication/2018-mihaylovetal/</guid>
       <description></description>
     </item>
     

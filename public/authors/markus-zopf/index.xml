@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markus Zopf | Todor Mihaylov</title>
-    <link>https://www.cl.uni-heidelberg.de/~mihaylov/authors/markus-zopf/</link>
-      <atom:link href="https://www.cl.uni-heidelberg.de/~mihaylov/authors/markus-zopf/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/markus-zopf/</link>
+      <atom:link href="/authors/markus-zopf/index.xml" rel="self" type="application/rss+xml" />
     <description>Markus Zopf</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cl.uni-heidelberg.de/~mihaylov/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Markus Zopf</title>
-      <link>https://www.cl.uni-heidelberg.de/~mihaylov/authors/markus-zopf/</link>
+      <link>/authors/markus-zopf/</link>
     </image>
     
     <item>
       <title>What&#39;s important in a text? An extensive evaluation of linguistic annotations for summarization</title>
-      <link>https://www.cl.uni-heidelberg.de/~mihaylov/publication/2018-zopfetal/</link>
+      <link>/publication/2018-zopfetal/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.cl.uni-heidelberg.de/~mihaylov/publication/2018-zopfetal/</guid>
+      <guid>/publication/2018-zopfetal/</guid>
       <description></description>
     </item>
     

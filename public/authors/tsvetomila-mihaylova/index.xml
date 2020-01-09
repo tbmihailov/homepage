@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tsvetomila Mihaylova | Todor Mihaylov</title>
-    <link>https://www.cl.uni-heidelberg.de/~mihaylov/authors/tsvetomila-mihaylova/</link>
-      <atom:link href="https://www.cl.uni-heidelberg.de/~mihaylov/authors/tsvetomila-mihaylova/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/tsvetomila-mihaylova/</link>
+      <atom:link href="/authors/tsvetomila-mihaylova/index.xml" rel="self" type="application/rss+xml" />
     <description>Tsvetomila Mihaylova</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cl.uni-heidelberg.de/~mihaylov/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tsvetomila Mihaylova</title>
-      <link>https://www.cl.uni-heidelberg.de/~mihaylov/authors/tsvetomila-mihaylova/</link>
+      <link>/authors/tsvetomila-mihaylova/</link>
     </image>
     
     <item>
       <title>SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering</title>
-      <link>https://www.cl.uni-heidelberg.de/~mihaylov/publication/2016-mihaylovaetal/</link>
+      <link>/publication/2016-mihaylovaetal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.cl.uni-heidelberg.de/~mihaylov/publication/2016-mihaylovaetal/</guid>
+      <guid>/publication/2016-mihaylovaetal/</guid>
       <description></description>
     </item>
     
