@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tobias Falke | Todor Mihaylov</title>
+    <link>/authors/tobias-falke/</link>
+      <atom:link href="/authors/tobias-falke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tobias Falke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tobias Falke</title>
+      <link>/authors/tobias-falke/</link>
+    </image>
+    
+    <item>
+      <title>What&#39;s important in a text? An extensive evaluation of linguistic annotations for summarization</title>
+      <link>/publication/2018-zopfetal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-zopfetal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

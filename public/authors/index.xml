@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Todor Mihaylov</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>**Todor Mihaylov**</title>
+      <link>/authors/todor-mihaylov/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/todor-mihaylov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anette Frank</title>
+      <link>/authors/anette-frank/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/anette-frank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana Marasović</title>
+      <link>/authors/ana-marasovic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/ana-marasovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashish Sabharwal</title>
+      <link>/authors/ashish-sabharwal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/ashish-sabharwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avinesh P.V.S</title>
+      <link>/authors/avinesh-p.v.s/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/avinesh-p.v.s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Heinzerling</title>
+      <link>/authors/benjamin-heinzerling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/benjamin-heinzerling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eneldo Loza Mencía</title>
+      <link>/authors/eneldo-loza-mencia/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/eneldo-loza-mencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Fürnkranz</title>
+      <link>/authors/johannes-furnkranz/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/johannes-furnkranz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Zopf</title>
+      <link>/authors/markus-zopf/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/markus-zopf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Clark</title>
+      <link>/authors/peter-clark/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-clark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teresa Botschen</title>
+      <link>/authors/teresa-botschen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/teresa-botschen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Falke</title>
+      <link>/authors/tobias-falke/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/tobias-falke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tushar Khot</title>
+      <link>/authors/tushar-khot/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/tushar-khot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zornitsa Kozareva</title>
+      <link>/authors/zornitsa-kozareva/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/zornitsa-kozareva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Balchev</title>
+      <link>/authors/daniel-balchev/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-balchev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Koychev</title>
+      <link>/authors/ivan-koychev/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/ivan-koychev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preslav Nakov</title>
+      <link>/authors/preslav-nakov/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/preslav-nakov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yasen Kiprov</title>
+      <link>/authors/yasen-kiprov/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/yasen-kiprov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galia Angelova</title>
+      <link>/authors/galia-angelova/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/galia-angelova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivana Yovcheva</title>
+      <link>/authors/ivana-yovcheva/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/ivana-yovcheva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivelina Nikolova</title>
+      <link>/authors/ivelina-nikolova/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/ivelina-nikolova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Boyanov</title>
+      <link>/authors/martin-boyanov/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/martin-boyanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Momchil Hardalov</title>
+      <link>/authors/momchil-hardalov/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/momchil-hardalov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pepa Gencheva</title>
+      <link>/authors/pepa-gencheva/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/pepa-gencheva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tsvetomila Mihaylova</title>
+      <link>/authors/tsvetomila-mihaylova/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/tsvetomila-mihaylova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georgi Georgiev</title>
+      <link>/authors/georgi-georgiev/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/georgi-georgiev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a 4th-year doctoral researcher in the &lt;a href=&#34;https://www.cl.uni-heidelberg.de/nlpgroup/&#34; target=&#34;_blank&#34;&gt;Natural Language Processing Group&lt;/a&gt; at Heidelberg University and &lt;a href=&#34;https://www.informatik.tu-darmstadt.de/aiphes/aiphes/index.en.jsp&#34; target=&#34;_blank&#34;&gt;Research Training Group &amp;ldquo;AIPHES&amp;rdquo;&lt;/a&gt;. My work focuses on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was a Research Intern at the &lt;a href=&#34;https://allenai.org/aristo/&#34; target=&#34;_blank&#34;&gt;AI2 Aristo Team&lt;/a&gt; in Seattle. In Summer 2017 I was a Research Scientist Intern at &lt;a href=&#34;https://www.amazon.jobs/en/teams/amazonai&#34; target=&#34;_blank&#34;&gt;Amazon AI&lt;/a&gt; in Palo Alto.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
