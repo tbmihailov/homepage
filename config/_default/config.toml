@@ -11,8 +11,8 @@ title = "Todor Mihaylov"
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 #
 # To deploy with subfolder
-baseURL = "https://www.cl.uni-heidelberg.de/~mihaylov/"
-#baseURL = "/"
+#baseURL = "https://www.cl.uni-heidelberg.de/~mihaylov/"
+baseURL = "/"
 
 
 # Enter a copyright notice to display in the site footer.
