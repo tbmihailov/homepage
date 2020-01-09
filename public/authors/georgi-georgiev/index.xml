@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgi Georgiev | Todor Mihaylov</title>
+    <link>/authors/georgi-georgiev/</link>
+      <atom:link href="/authors/georgi-georgiev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Georgi Georgiev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Georgi Georgiev</title>
+      <link>/authors/georgi-georgiev/</link>
+    </image>
+    
+    <item>
+      <title>Exposing Paid Opinion Manipulation Trolls</title>
+      <link>/publication/2015-mihaylovetal-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-mihaylovetal-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Opinion Manipulation Trolls in News Community Forums</title>
+      <link>/publication/2015-mihaylovetal-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-mihaylovetal-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

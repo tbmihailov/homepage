@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preslav Nakov | Todor Mihaylov</title>
+    <link>/authors/preslav-nakov/</link>
+      <atom:link href="/authors/preslav-nakov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Preslav Nakov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Preslav Nakov</title>
+      <link>/authors/preslav-nakov/</link>
+    </image>
+    
+    <item>
+      <title>Large-scale goodness polarity lexicons for community question answering</title>
+      <link>/publication/2017-mihaylovetal-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-mihaylovetal-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hunting for Troll Comments in News Community Forums</title>
+      <link>/publication/2016-mihaylovnakov-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-mihaylovnakov-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemanticZ at SemEval-2016 Task 3: Ranking Relevant Answers in Community Question Answering Using Semantic Similarity Based on Fine-tuned Word Embeddings</title>
+      <link>/publication/2016-mihaylovnakov-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-mihaylovnakov-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering</title>
+      <link>/publication/2016-mihaylovaetal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-mihaylovaetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exposing Paid Opinion Manipulation Trolls</title>
+      <link>/publication/2015-mihaylovetal-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-mihaylovetal-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Opinion Manipulation Trolls in News Community Forums</title>
+      <link>/publication/2015-mihaylovetal-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-mihaylovetal-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

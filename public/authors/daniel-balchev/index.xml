@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Balchev | Todor Mihaylov</title>
+    <link>/authors/daniel-balchev/</link>
+      <atom:link href="/authors/daniel-balchev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Balchev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Daniel Balchev</title>
+      <link>/authors/daniel-balchev/</link>
+    </image>
+    
+    <item>
+      <title>Large-scale goodness polarity lexicons for community question answering</title>
+      <link>/publication/2017-mihaylovetal-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-mihaylovetal-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering</title>
+      <link>/publication/2016-mihaylovaetal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-mihaylovaetal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
