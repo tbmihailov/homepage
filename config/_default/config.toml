@@ -20,7 +20,8 @@ baseURL = "/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-146446493-2"
+#googleAnalytics = "UA-146446493-2" # cl.uni-heidelberg.de
+googleAnalytics = "UA-146446493-3"
 
 ############################
 ## Advanced options below ##
