@@ -10,16 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Computational Linguistics, Heidelberg Univeristy
-  url: "https://www.cl.uni-heidelberg.de/"
+- name: Facebook AI
+  url: "https://ai.facebook.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I am a doctoral researcher at Heidelberg University working on incorporating external knowledge into neural networks for question answering and reading comprehension.  
-
+bio:  I am currently a Research Scientist at Facebook AI. 
 interests:
 - Deep Learning for NLP
 - Representation Learning
@@ -29,7 +28,7 @@ education:
    courses:
    - course: PhD Student in Computational Linguistics
      institution: Heidelberg University
-     year: 2016 - now
+     year: 2016-
    - course: MSc in Computer Science
      institution: Sofia University
      year: 2013-2015
@@ -70,5 +69,5 @@ user_groups:
 - Researchers
 ---
 
-I am a 4th-year doctoral researcher in the [Natural Language Processing Group](https://www.cl.uni-heidelberg.de/nlpgroup/) at Heidelberg University and [Research Training Group "AIPHES"](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/index.en.jsp). My work focuses on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was a Research Intern at the [AI2 Aristo Team](https://allenai.org/aristo/) in Seattle. In Summer 2017 I was a Research Scientist Intern at [Amazon AI](https://www.amazon.jobs/en/teams/amazonai) in Palo Alto. 
+I am currently a Research Scientist at Facebook AI. Before that I was a 4th-year doctoral researcher in the [Natural Language Processing Group](https://www.cl.uni-heidelberg.de/nlpgroup/) at Heidelberg University and [Research Training Group "AIPHES"](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/index.en.jsp) where I worked on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was a Research Intern at the [AI2 Aristo Team](https://allenai.org/aristo/) in Seattle. In Summer 2017 I was a Research Scientist Intern at [Amazon AI](https://www.amazon.jobs/en/teams/amazonai) in Palo Alto. 
  
