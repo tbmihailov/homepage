@@ -8,7 +8,9 @@ abstract: ""
 featured: true
 publication: "*Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)*"
 url_pdf: "https://arxiv.org/pdf/2011.03080.pdf"
-url_code: "" 
+url_code: "https://github.com/mhardalov/exams-qa" 
+url_dataset: "https://github.com/mhardalov/exams-qa/tree/main/data/exams"
+
 
 image:
   caption: "Model"
