@@ -69,6 +69,12 @@ subtitle = ""
 +++
 
 <ul>
+ <li> New pre-print <a href="https://arxiv.org/pdf/2112.10684.pdf">Efficient Large Scale Language Modeling with Mixtures of Experts</a> from our group at Meta AI. Dec 2021 </li>
+ <li> New pre-print <a href="https://arxiv.org/pdf/2011.03080.pdf">Few-shot Learning with Multilingual Language Models</a>  from our group at Meta AI. Dec 2021 </li>
+
+ <li> Our paper <a href="https://arxiv.org/pdf/2011.03080.pdf">EXAMS: A Multi-Subject High School Examinations Dataset
+for Cross-Lingual and Multilingual Question Answering</a> was accepted at EMNLP 2020. Aug 2020 </li>
+ 
  <li> Our paper on <a href="https://arxiv.org/pdf/1908.10721.pdf">Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension</a> was accepted at EMNLP-IJCNLP 2019. Aug 2019 </li>
  <li> Attended the <a href="https://medium.com/ai2-blog/2019-allennlp-summit-c954d258f819">AllenNLP Summit</a> in Seattle. Aug 2019 </li>
  <li> Giving an invited talk at NEC Labs, Heidelberg. Mar 2019 </li>
