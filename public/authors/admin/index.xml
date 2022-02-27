@@ -1,10 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Todor Mihaylov</title>
     <link>/authors/admin/</link>
     <description>Recent content on Todor Mihaylov</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>I am currently a Research Scientist at Facebook AI. Before that I was a doctoral researcher in the Natural Language Processing Group at Heidelberg University and Research Training Group &amp;ldquo;AIPHES&amp;rdquo; where I worked on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was a Research Intern at the AI2 Aristo Team in Seattle. In Summer 2017 I was a Research Scientist Intern at Amazon AI in Palo Alto.</description>
+    </item>
+    
   </channel>
 </rss>

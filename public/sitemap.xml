@@ -1,162 +1,507 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/authors/todor-mihaylov/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/todor-mihaylov&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/brian-ohoro/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-simig/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2021-atetxeetal/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2021-linetal/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/giri-anantharaman/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/halil-akin/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jeff-wang/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jingfei-du/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/louis-martin/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/luke-zettlemoyer/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mandeep-baines/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mikel-artetxe/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mikel-artetxe&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mona-diab/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/myle-ott/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/myle-ott&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/naman-goyal/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/naman-goyal&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/punit-singh-koura/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ramakanth-pasunuru/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sam-shleifer/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sam-shleifer&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/shruti-bhosale/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/shruti-bhosale&#43;/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/shuohui-chen/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/srinivasan-iyer/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tianlu-wang/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ves-stoyanov/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/veselin-stoyanov/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/vishrav-chaudhary/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/xi-victoria-lin/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/xian-li/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/xing-zhou/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zornitsa-kozareva/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/dimitrina-zlatkova/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2020-hardalovetal/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/ivan-koychev/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/momchil-hardalov/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/preslav-nakov/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/yoan-dinkov/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/anette-frank/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2019-mihaylovfrank/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/ana-marasovic/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/ashish-sabharwal/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/avinesh-p.v.s/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/benjamin-heinzerling/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2018-mihaylovetal/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/eneldo-loza-mencia/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/johannes-furnkranz/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2018-mihaylovfrank/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/markus-zopf/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/peter-clark/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/teresa-botschen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/tobias-falke/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/tushar-khot/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2018-zopfetal/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2017-mihaylovetal-b/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/zornitsa-kozareva/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/daniel-balchev/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2017-mihaylovetal-a/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2017-mihaylovfrank/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/yasen-kiprov/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2016-mihaylovfrank-b/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2016-mihaylovfrank-a/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/galia-angelova/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2016-mihaylovnakov-b/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/ivana-yovcheva/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/ivelina-nikolova/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/martin-boyanov/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/pepa-gencheva/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/2016-mihaylovnakov-a/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2016-mihaylovaetal/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-mihaylovnakov-a/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/tsvetomila-mihaylova/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2015-mihaylovetal-b/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2015-mihaylovetal-a/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/georgi-georgiev/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/admin/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/post/</loc>
-  </url><url>
-    <loc>/talk/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <priority>0</priority>
   </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>

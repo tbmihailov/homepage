@@ -26,7 +26,7 @@ interests:
 
 education:
    courses:
-   - course: PhD Student in Computational Linguistics
+   - course: Ph.D. Researcher in Computational Linguistics
      institution: Heidelberg University
      year: 2016-
    - course: MSc in Computer Science

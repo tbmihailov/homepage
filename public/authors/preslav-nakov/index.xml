@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preslav Nakov on Todor Mihaylov</title>
@@ -6,7 +6,11 @@
     <description>Recent content in Preslav Nakov on Todor Mihaylov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/authors/preslav-nakov/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/preslav-nakov/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>EXAMS: A multi-subject high school examinations dataset for cross-lingual and multilingual question answering</title>
       <link>/publication/2020-hardalovetal/</link>
@@ -35,20 +39,20 @@
     </item>
     
     <item>
-      <title>SemanticZ at SemEval-2016 Task 3: Ranking Relevant Answers in Community Question Answering Using Semantic Similarity Based on Fine-tuned Word Embeddings</title>
-      <link>/publication/2016-mihaylovnakov-a/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2016-mihaylovnakov-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering</title>
       <link>/publication/2016-mihaylovaetal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/2016-mihaylovaetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemanticZ at SemEval-2016 Task 3: Ranking Relevant Answers in Community Question Answering Using Semantic Similarity Based on Fine-tuned Word Embeddings</title>
+      <link>/publication/2016-mihaylovnakov-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-mihaylovnakov-a/</guid>
       <description></description>
     </item>
     

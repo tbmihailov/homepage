@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Todor Mihaylov</title>
@@ -6,13 +6,314 @@
     <description>Recent content in Authors on Todor Mihaylov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>**Todor Mihaylov**</title>
       <link>/authors/todor-mihaylov/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/todor-mihaylov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Todor Mihaylov&#43;**</title>
+      <link>/authors/todor-mihaylov&#43;/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/todor-mihaylov&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian O&#39;Horo</title>
+      <link>/authors/brian-ohoro/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brian-ohoro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Simig</title>
+      <link>/authors/daniel-simig/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daniel-simig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giri Anantharaman</title>
+      <link>/authors/giri-anantharaman/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/giri-anantharaman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halil Akin</title>
+      <link>/authors/halil-akin/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/halil-akin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff Wang</title>
+      <link>/authors/jeff-wang/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jeff-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingfei Du</title>
+      <link>/authors/jingfei-du/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jingfei-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Louis Martin</title>
+      <link>/authors/louis-martin/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/louis-martin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luke Zettlemoyer</title>
+      <link>/authors/luke-zettlemoyer/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/luke-zettlemoyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mandeep Baines</title>
+      <link>/authors/mandeep-baines/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mandeep-baines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikel Artetxe</title>
+      <link>/authors/mikel-artetxe/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mikel-artetxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikel Artetxe&#43;</title>
+      <link>/authors/mikel-artetxe&#43;/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mikel-artetxe&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mona Diab</title>
+      <link>/authors/mona-diab/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mona-diab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myle Ott</title>
+      <link>/authors/myle-ott/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/myle-ott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myle Ott&#43;</title>
+      <link>/authors/myle-ott&#43;/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/myle-ott&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naman Goyal</title>
+      <link>/authors/naman-goyal/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/naman-goyal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naman Goyal&#43;</title>
+      <link>/authors/naman-goyal&#43;/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/naman-goyal&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punit Singh Koura</title>
+      <link>/authors/punit-singh-koura/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/punit-singh-koura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramakanth Pasunuru</title>
+      <link>/authors/ramakanth-pasunuru/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ramakanth-pasunuru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sam Shleifer</title>
+      <link>/authors/sam-shleifer/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sam-shleifer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sam Shleifer&#43;</title>
+      <link>/authors/sam-shleifer&#43;/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sam-shleifer&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shruti Bhosale</title>
+      <link>/authors/shruti-bhosale/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shruti-bhosale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shruti Bhosale&#43;</title>
+      <link>/authors/shruti-bhosale&#43;/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shruti-bhosale&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuohui Chen</title>
+      <link>/authors/shuohui-chen/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shuohui-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Srinivasan Iyer</title>
+      <link>/authors/srinivasan-iyer/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/srinivasan-iyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianlu Wang</title>
+      <link>/authors/tianlu-wang/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tianlu-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ves Stoyanov</title>
+      <link>/authors/ves-stoyanov/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ves-stoyanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veselin Stoyanov</title>
+      <link>/authors/veselin-stoyanov/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/veselin-stoyanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vishrav Chaudhary</title>
+      <link>/authors/vishrav-chaudhary/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/vishrav-chaudhary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xi Victoria Lin</title>
+      <link>/authors/xi-victoria-lin/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xi-victoria-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xian Li</title>
+      <link>/authors/xian-li/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xian-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xing Zhou</title>
+      <link>/authors/xing-zhou/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xing-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zornitsa Kozareva</title>
+      <link>/authors/zornitsa-kozareva/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zornitsa-kozareva/</guid>
       <description></description>
     </item>
     
@@ -170,15 +471,6 @@
     </item>
     
     <item>
-      <title>Zornitsa Kozareva</title>
-      <link>/authors/zornitsa-kozareva/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/zornitsa-kozareva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Daniel Balchev</title>
       <link>/authors/daniel-balchev/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -265,7 +557,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>I am currently a Research Scientist at Facebook AI. Before that I was a 4th-year doctoral researcher in the Natural Language Processing Group at Heidelberg University and Research Training Group &amp;ldquo;AIPHES&amp;rdquo; where I worked on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was a Research Intern at the AI2 Aristo Team in Seattle. In Summer 2017 I was a Research Scientist Intern at Amazon AI in Palo Alto.</description>
+      <description>I am currently a Research Scientist at Facebook AI. Before that I was a doctoral researcher in the Natural Language Processing Group at Heidelberg University and Research Training Group &amp;ldquo;AIPHES&amp;rdquo; where I worked on incorporating external knowledge into neural networks for question answering and reading comprehension. In Spring 2018 I was a Research Intern at the AI2 Aristo Team in Seattle. In Summer 2017 I was a Research Scientist Intern at Amazon AI in Palo Alto.</description>
     </item>
     
   </channel>

@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   
   """
 [[experience]]
-  title = "Ph.D. Student"
+  title = "Ph.D. Researcher"
   company = "Heidelberg University"
   company_url = "https://www.cl.uni-heidelberg.de/"
   location = "Heidelberg, Germany"

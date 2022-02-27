@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Todor Mihaylov</title>
@@ -6,7 +6,29 @@
     <description>Recent content in 1 on Todor Mihaylov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficient Large Scale Language Modeling with Mixtures of Experts</title>
+      <link>/publication/2021-atetxeetal/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021-atetxeetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-shot Learning with Multilingual Language Models</title>
+      <link>/publication/2021-linetal/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2021-linetal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>EXAMS: A multi-subject high school examinations dataset for cross-lingual and multilingual question answering</title>
       <link>/publication/2020-hardalovetal/</link>
@@ -98,20 +120,20 @@
     </item>
     
     <item>
-      <title>SemanticZ at SemEval-2016 Task 3: Ranking Relevant Answers in Community Question Answering Using Semantic Similarity Based on Fine-tuned Word Embeddings</title>
-      <link>/publication/2016-mihaylovnakov-a/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2016-mihaylovnakov-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering</title>
       <link>/publication/2016-mihaylovaetal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/2016-mihaylovaetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemanticZ at SemEval-2016 Task 3: Ranking Relevant Answers in Community Question Answering Using Semantic Similarity Based on Fine-tuned Word Embeddings</title>
+      <link>/publication/2016-mihaylovnakov-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-mihaylovnakov-a/</guid>
       <description></description>
     </item>
     
