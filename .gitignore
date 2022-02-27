@@ -1,4 +1,13 @@
-.DS_store
+# OSX
+.DS_Store
+
+# IDEs
 .idea/
-#public/
-#public_static/
+
+# Hugo
+resources/
+public/
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.loc
